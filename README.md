@@ -1,6 +1,6 @@
 # 🏎️ Ferrari Website  
 
-Welcome to my repository dedicated to the **Ferrari brand**! This project explores the history, technology, and unique charm of Ferrari, making it an exciting resource for car enthusiasts and anyone interested in one of the most iconic automotive brands in the world.
+Welcome to my repository for my **first HTML project**! This project is dedicated to the **Ferrari brand**, exploring its history, iconic models, and achievements in motorsport. It's a tribute to one of the most iconic automotive brands in the world and a great learning experience for me as I build my first webpage.
 
 ---
 
@@ -10,9 +10,9 @@ This repository serves multiple purposes, including:
 - 📂 Hosting a beautifully designed webpage about Ferrari.  
 - 🛠️ Showcasing Ferrari's history, models, and achievements.  
 - 🌐 Sharing insights about Ferrari's iconic design and performance.  
-- 🧭 Providing a central hub for Ferrari-related resources, including links to official sites, galleries, and more.  
+- 🎉 Marking my first steps into the world of web development.  
 
-GitHub not only allows me to host this project but also enables sharing my passion for automotive excellence with a wider audience.
+GitHub not only allows me to host this project but also enables me to share my journey with others.
 
 ---
 
@@ -53,7 +53,13 @@ This repository is a one-stop resource for anyone passionate about Ferrari or lu
 
 ## 🚗 Ferrari - The Power of Dreams  
 
-This website is a tribute to Ferrari's motto: "The Power of Dreams." Whether you're a fan of racing or luxury cars, Ferrari's story is bound to inspire you. Explore, learn, and fall in love with Ferrari's excellence!
+This website is a tribute to Ferrari's motto: "The Power of Dreams." Whether you're a fan of racing or luxury cars, Ferrari's story is bound to inspire you. Explore, learn, and fall in love with Ferrari's excellence!  
+
+---
+
+## 🛠️ About This Project  
+
+This is my **first project using HTML and CSS**, created as a learning experience and a tribute to one of my favorite brands. I'm excited to continue improving my skills and building more projects in the future.  
 
 ---
 
@@ -65,8 +71,3 @@ This website is a tribute to Ferrari's motto: "The Power of Dreams." Whether you
 ---
 
 Thank you for visiting, and enjoy your journey into the world of Ferrari! 😊  
-
----
-
-### Topics  
-ferrari | cars | history | racing | sports cars | luxury cars | Enzo Ferrari  
