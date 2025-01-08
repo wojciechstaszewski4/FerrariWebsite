@@ -1,0 +1,335 @@
+    body
+    {
+        background-image: url('background.png');
+        font-family: 'Rubik', sans-serif;
+        margin: 0 !important;
+    }
+
+    #container
+    {
+        width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 102%;    
+    }
+ 
+    #logo
+    {
+        background-image: url('background2.png');
+        color: #ffffff;
+        font-size: 44px;
+        font-weight: 700;
+        letter-spacing: 3px;
+        text-align: auto;
+    	width: 102%;
+	    margin-left: auto;
+	    margin-right: auto;
+        padding: 60px 0 30px 0;
+    }
+
+    .nav
+    { 
+        width: 102%;
+        padding: 10px 0 10px 0;
+        background-color: #000000;
+        text-align: center;
+        border-bottom: 2px double #ffffff;
+        border-top: 2px double #ffffff;
+    }
+
+    #topbar
+    {
+        color: #ffffff;
+        padding: 10px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+        height: 220px;
+        width: 100%;
+        text-align: center;
+    }
+
+    #topbarL
+    {
+        float: left;
+        padding: 20px;
+        width: 20%;
+        text-align: center;
+        border-right: 2px double #ffffff;
+    }   
+
+    #topbarR
+    {
+        float: left;
+        padding: 20px;
+        width: 70%;
+        font-size: 16px;
+        text-align: justify;
+    }
+
+    #line
+    {
+        clear: both;
+        height: 30px;
+    }
+
+    #content
+    {
+        width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: justify;
+        padding: 50px;
+        background-color: rgb(0,0,0); 
+        background-color: rgba(0,0,0, 0.4); 
+        color: #ffffff;
+        border: 2px double #ffffff;
+        font-size: 20px;
+    }
+
+    #part1
+    {
+        margin-top: 90px;
+        text-align: center;  
+    }
+
+    #part2
+    {
+        margin-top: 95px;
+        text-align: center;
+    }
+
+    #part3
+    {
+        margin-top: 80px;
+        text-align: center;
+    }
+
+    #footer
+    {
+        clear: both;
+        color: #ffffff;
+        text-align: center;
+        width: 101%;
+        padding: 10px 15px 10px 0px;
+        background-color: #000000;
+        border-top: 2px double #ffffff;
+        font-size: 18px;
+        margin-left: -10px;
+    }
+
+/* Przyciski Socjali */
+
+    .sticky
+    {   
+        width: 100%;
+        position: fixed;
+        left: 0;
+        top: 0;
+        z-index: 100;
+    }
+
+    .socials
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    .socialdivs
+    {
+        width: 1100px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .sociallink
+    {
+	    color: #ffffff;
+	    text-decoration: none;
+	    display: block;
+	    width: 105px;
+        height: 142px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .fb
+    {
+        width: 275px;
+        height: 155px;
+        float: left;
+    }
+
+    .fb:hover
+    {
+        background-color: #4668b3;
+    }
+
+    .yt
+    {
+        width: 275px;
+        height: 155px;
+        float: left;
+    }
+
+    .yt:hover
+    {
+        background-color: #d94348;
+    }
+
+    .tw
+    {
+        width: 275px;
+        height: 155px;
+        float: left;
+    }
+
+    .tw:hover
+    {
+        background-color: #3095d3;
+    }
+
+    .gplus
+    {
+        width: 275px;
+        height: 155px;
+        float: left;
+    }
+
+    .gplus:hover
+    {
+        background-color: #d95333;
+    }
+
+/* Koniec */
+
+/* Klasy Styli */
+
+    .bigtitle
+    {
+        font-size: 32px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        color: #D22232;
+    }
+
+    .contitle
+    {
+        font-size: 32px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        color: #ffffff;
+    }
+
+    .doubleline
+    {
+        height: 5px;
+        margin-top: 15px;
+        margin-bottom: 20px;
+        border-bottom: 4px double #ffffff;
+    }
+
+    .signature1
+    {
+        text-align: left;
+        margin-left: 100px;
+        font-weight: 700;
+        color: #D22232;
+        font-size: 21px;
+    }
+
+    .signature2
+    {
+        text-align: right;
+        margin-right: 140px;
+        font-weight: 700;
+        color: #D22232;
+        font-size: 21px;
+    }
+
+    .signature3
+    {
+        text-align: left;
+        margin-left: 140px;
+        font-weight: 700;
+        color: #D22232;
+        font-size: 21px;
+    }
+
+/* Koniec */
+
+/* Rozwijane Kategorie Menu */
+
+    ol
+    {
+        padding: 0;
+        margin: 0;
+        list-style-type: none;
+        font-size: 18px;
+        height: 35px;
+        line-height: 200%;
+        display: inline-block;
+    }
+
+    ol a
+    {
+        color: #ffffff;
+        text-decoration: none;
+        display: block;
+    }
+
+    ol > li
+    {
+        float: left;
+        width: 150px;
+        height: 40px;
+        border-right: 1px solid #ffffff;
+    }
+    
+    ol > li:first-child
+    {
+        border-left: 1px solid #ffffff;
+    }
+
+    ol > li:hover
+    {
+        background-color: #D22232;
+    }
+
+    ol > li:hover > a
+    {
+        color: #ffffff;
+    }
+
+    ol > li > ul
+    {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        height: 40px;
+        display: none;
+    }
+
+    ol > li:hover > ul
+    {
+        display: block;
+    }
+
+    ol > li > ul > li
+    {
+        background-color: #D22232;
+        position: relative;
+        z-index: 100;
+        border-top: 1px double #ffffff;
+    }
+
+    ol > li > ul > li:hover
+    {
+        background-color: #000000;
+    }
+
+    ol > li > ul > li:hover > a
+    {
+        color: #ffffff;
+    }
+   
+/* Koniec */
